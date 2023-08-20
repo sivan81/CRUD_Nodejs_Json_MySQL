@@ -5,7 +5,7 @@
 - El lenguaje de programación utilizado es JavaScript.
 - Base de datos en MySQL (He utilizado XAMPP).
 - Entorno de ejecución NodeJS.
-- Para comprobar el funcionamiento, he creado una interfaz WEB con HTML.
+- Para comprobar el funcionamiento, he creado una interfaz WEB con EJS.
 
 ##### Como ejecutarlo:
 
